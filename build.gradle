@@ -4,3 +4,7 @@ repositories {
     google()
     jcenter()
 }
+
+dependencies {
+    compileOnly 'org.jetbrains:annotations:18.+'
+}
